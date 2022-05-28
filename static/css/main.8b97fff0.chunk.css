@@ -1,0 +1,2 @@
+.App{flex-direction:column;align-items:center}.App,.header{display:flex}.header__link{display:flex;border:1px solid red;border-radius:5px;justify-content:center;text-decoration:none;padding:10px;margin:20px;font-size:large;text-transform:uppercase;transition:.5s}.header__link:hover{background-color:red;-webkit-transform:scale(1.2);transform:scale(1.2)}.row,.table{border:1px solid #000;margin:0;background-color:#9acd32}
+/*# sourceMappingURL=main.8b97fff0.chunk.css.map */
